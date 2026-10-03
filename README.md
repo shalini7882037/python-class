@@ -3,8 +3,8 @@
 B.Tech. in Robotics and Artificial Intelligence, III Semester
 School of ECE, REVA University | AY 2026-27 
 
-**Name:** Ananya H M 
-**SRN:** R25EV001 **Section:** A 
+**Name:** Shalini R
+**SRN:** R25EV046 **Section:** F 
 
 ## What is in this repository 
 | Folder | Contents |
