@@ -29,7 +29,8 @@ for r in readings:
     if r == -1:
         readings.remove(r)
 print(readings)
-
+print("")
+print("")
 readings = [12, 45, 7, 61, 33]
 doubled = [r *2 for r in readings]
 big = [r for r in readings if r > 30]
