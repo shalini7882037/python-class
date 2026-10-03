@@ -1,2 +1,2 @@
 def read_ultrasonic():
-    return 42.0   
+    return 42
